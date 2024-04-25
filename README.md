@@ -1,0 +1,2 @@
+# FAQs
+ acordeão de FAQ
