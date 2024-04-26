@@ -45,6 +45,7 @@ hr{
     overflow: hidden; /* Isso garante que a div se ajuste ao conteúdo dentro dela */
     display: flex; /* Ativa o layout flexível */
     align-items: center; /* Centraliza verticalmente os itens */
+    flex-wrap: wrap;
   }
   
   h4 {
